@@ -1,16 +1,35 @@
-# React + Vite
+# 💻 Code Generator App (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Code Generator App built using React.js** that helps users generate, save, and manage useful code snippets easily.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- ✍️ Generate code from user input / prompt
+- ⚡ Instant code output
+- 📋 Copy code to clipboard
+- ⭐ Add to Favorites (save important snippets)
+- 🗂 View saved favorite codes separately
+- 🗑 Remove from favorites
+- 🎨 Clean and modern UI
+- 📱 Fully responsive design
+- 🌙 Dark mode support (if included)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- Local Storage (for saving favorites)
+- HTML5
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+npm install
+npm run dev
